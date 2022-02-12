@@ -1,0 +1,5 @@
+"like" = "ti piace";
+"not_like" = "non ti piace";
+"summary" = "riepilogo scelte";
+"download_fail" = "errore durante il download";
+"layer_exist" = "esiste già un layer";
